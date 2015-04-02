@@ -494,7 +494,7 @@ img { border: 0 }
 table.list,
 tr.child, tr.parent {
 	margin-top:10px;
-	border:0px solid #222;-moz-border-radius: 5px;-webkit-border-radius: 5px;
+	border:0px solid #222 !important;-moz-border-radius: 5px;-webkit-border-radius: 5px;
 }
 table.list thead th,
 table.filecontent th.filename {
